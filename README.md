@@ -7,9 +7,6 @@ Table of Contents-
 
 Introduction , Feature, Endpoints , Usage
 
-Clone the repository: git clone https://github.com/your-username/kidney-health-api.git
-
-Use Postman to test the API endpoints
 
 Introduction-
 This API allows users to manage kidney health data, including adding, updating, and deleting kidneys. It uses Express.js as the web framework and can be tested using Postman.
@@ -40,3 +37,9 @@ Updates all existing kidneys to be healthy
 DELETE /
 Deletes all existing kidneys
 Returns a 411 status code if there are no unhealthy kidneys
+
+Usage:-
+
+Clone the repository: git clone https://github.com/your-username/kidney-health-api.git
+
+Use Postman to test the API endpoints
