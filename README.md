@@ -5,13 +5,7 @@ A simple API built using Express.js to manage kidney health data.
 
 Table of Contents-
 
-Introduction
-
-Feature
-
-Endpoints
-
-Usage
+Introduction , Feature, Endpoints , Usage
 
 Clone the repository: git clone https://github.com/your-username/kidney-health-api.git
 
