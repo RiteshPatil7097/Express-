@@ -4,12 +4,17 @@ Kidney Health API
 A simple API built using Express.js to manage kidney health data.
 
 Table of Contents-
-*Introduction
-*Features
-*Endpoints
-*Usage
-*Testing
-*Contributing
+Introduction
+
+Feature
+
+Endpoints
+
+Usage
+
+Testing
+
+Contributing
 
 Introduction-
 This API allows users to manage kidney health data, including adding, updating, and deleting kidneys. It uses Express.js as the web framework and can be tested using Postman.
